@@ -9,16 +9,6 @@ Updates made on main on GitHub before rebase
 
 This is just a readme file
 
-## Unstaged and staging examlple
 
-File will be unstaged first, then staged
-
-## Modified on GitHub
-
-Simulate another developer
-
-## Feature 1 
-
-updating for feature 1
 
 
