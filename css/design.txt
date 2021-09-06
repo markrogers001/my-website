@@ -1,2 +1,0 @@
-
-This is a design document for showing staging
