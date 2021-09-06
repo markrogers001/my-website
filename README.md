@@ -16,3 +16,9 @@ File will be unstaged first, then staged
 ## Modified on GitHub
 
 Simulate another developer
+
+## Feature 1 
+
+updating for feature 1
+
+
