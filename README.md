@@ -15,4 +15,8 @@ Updating Readme for demo
 
 
 
+Added notes by Jason N
+
+
+
 
